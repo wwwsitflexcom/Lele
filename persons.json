@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "Personne 1",
+        "age": 30,
+        "email": "personne1@example.com",
+        "biography": "Biographie de la personne 1."
+    },
+    {
+        "id": "2",
+        "name": "Personne 2",
+        "age": 25,
+        "email": "personne2@example.com",
+        "biography": "Biographie de la personne 2."
+    }
+]
